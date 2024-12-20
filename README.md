@@ -1,2 +1,2 @@
 # Opencore-Dell-Precision-7530
-MacOS Ventura
+MacOS Ventura 13.7.2
