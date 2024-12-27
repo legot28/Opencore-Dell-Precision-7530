@@ -2,8 +2,8 @@
 MacOS Ventura 13.7.3
 Opencore 1.0.3
 
- What working
+
  
-All except: 
+All is working except : 
 HDMI display port and
 Mini display port back
