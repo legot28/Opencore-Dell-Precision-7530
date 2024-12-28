@@ -5,3 +5,5 @@ Opencore 1.0.3
 All is working except : 
 HDMI display port and
 Mini display port back
+
+HDMI OK With The 2 Usb C connectors (vidéo and audio)
